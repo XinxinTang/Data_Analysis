@@ -19,7 +19,7 @@ def get_live():  # 16s
     db.close()
 
     return arr_all
-
+## new change
 
 def get_cogo():
     host = "EC2Co-EcsEl-MT18UEPNPS93-1308701016.us-east-1.elb.amazonaws.com"
